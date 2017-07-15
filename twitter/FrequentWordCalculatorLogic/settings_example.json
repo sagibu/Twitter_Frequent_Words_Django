@@ -1,0 +1,7 @@
+{
+  "TWITTER": {
+    "APP_KEY": "KEY",
+    "APP_SECRET": "SECRET",
+    "ACCESS_TOKEN": "TOKEN"
+  }
+}
